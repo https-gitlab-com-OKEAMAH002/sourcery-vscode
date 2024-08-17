@@ -424,7 +424,7 @@
 		"marked": "^5.1.0",
 		"marked-highlight": "^2.0.1",
 		"sanitize-html": "^2.11.0",
-		"vscode-languageclient": "^8.1.0"
+		"vscode-languageclient": "^9.0.1"
 	},
 	"__metadata": {
 		"id": "0bb8a841-96c3-4e2d-ab43-cffee71480a4",
